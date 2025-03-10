@@ -17,7 +17,7 @@ services:
     develop:
       watch:
         - action: sync
-          path: ./code
+          path: ./api
           target: /code
         - action: rebuild
           path: ./requirements.txt
