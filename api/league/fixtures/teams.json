@@ -1,0 +1,182 @@
+[
+    {
+      "model": "league.team",
+      "pk": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+      "fields": {
+        "name": "Arsenal",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "d96483fa-1e21-4db1-985f-00345499cbc6",
+      "fields": {
+        "name": "Aston Villa",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "779a0b7c-b408-472c-9f85-402ddfee557a",
+      "fields": {
+        "name": "Bournemouth",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "bdc3aef1-9f87-4aec-a0e0-46a00f14fa03",
+      "fields": {
+        "name": "Brentford",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "73dbad07-ba6f-4a2a-b473-734b105e99db",
+      "fields": {
+        "name": "Brighton & Hove Albion",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "f668307c-8757-4d2c-a69f-a25fd690279f",
+      "fields": {
+        "name": "Burnley",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "1be750ca-c30f-488d-8b79-2ef10af39aae",
+      "fields": {
+        "name": "Chelsea",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "f58c2e4f-d1ab-485a-949c-6075c8354138",
+      "fields": {
+        "name": "Crystal Palace",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "7f1fbf3b-8300-4f17-9b8c-b45b071faef4",
+      "fields": {
+        "name": "Everton",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "3f5abcb1-3231-4fe0-b207-2cffc78245e4",
+      "fields": {
+        "name": "Fulham",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "be9c2485-6835-40f1-8554-0d3aac295483",
+      "fields": {
+        "name": "Liverpool",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "badaadbc-09ef-431c-80a5-ce46f905ee68",
+      "fields": {
+        "name": "Luton Town",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "4ad5953c-a4ea-4aa7-b647-e4ac39e23f70",
+      "fields": {
+        "name": "Manchester City",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "4f130a1a-e9b4-4fc2-8fc7-1040d8347bba",
+      "fields": {
+        "name": "Manchester United",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "5d4f69be-97b2-4e3b-b6fc-b3115743cb0b",
+      "fields": {
+        "name": "Newcastle United",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "2ee87c75-c21b-49ad-a551-cc7b0df28a23",
+      "fields": {
+        "name": "Nottingham Forest",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "d67a1406-ef1d-46cb-9bc0-1c06d674d4dc",
+      "fields": {
+        "name": "Sheffield United",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "b1298ed5-c521-41a6-ae5f-88015caaa9b3",
+      "fields": {
+        "name": "Tottenham Hotspur",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "21c8f5ef-e9bb-4b7e-a0c0-ceccb506ec33",
+      "fields": {
+        "name": "West Ham United",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    },
+    {
+      "model": "league.team",
+      "pk": "98061dc2-056b-4f55-902f-9cdcb729363b",
+      "fields": {
+        "name": "Wolverhampton Wanderers",
+        "created_at": "2024-03-10T12:00:00Z",
+        "updated_at": "2024-03-10T12:00:00Z"
+      }
+    }
+]
