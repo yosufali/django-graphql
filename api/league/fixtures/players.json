@@ -1,0 +1,266 @@
+[
+    {
+        "model": "league.player",
+        "pk": "00416872-ccdb-40a9-84a8-e081d7f7b2d9",
+        "fields": {
+            "first_name": "Aaron",
+            "last_name": "Ramsdale",
+            "jersey_number": 1,
+            "team": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "2cfa1acc-2d4b-48a9-9180-6bebb06f0abd",
+        "fields": {
+            "first_name": "William",
+            "last_name": "Saliba",
+            "jersey_number": 2,
+            "team": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "3b0c28b6-e5dd-4f92-bdc2-6fe9ccb67efc",
+        "fields": {
+            "first_name": "Ben",
+            "last_name": "White",
+            "jersey_number": 4,
+            "team": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "30fa2813-9a43-4d8c-9dbb-89aea5dbe291",
+        "fields": {
+            "first_name": "Gabriel",
+            "last_name": "Magalhaes",
+            "jersey_number": 6,
+            "team": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "5a3ca4b6-97ef-419a-8f02-7f398e0909c2",
+        "fields": {
+            "first_name": "Bukayo",
+            "last_name": "Saka",
+            "jersey_number": 7,
+            "team": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "9dfecee6-171e-4f53-a34a-af615a13098a",
+        "fields": {
+            "first_name": "Martin",
+            "last_name": "Ødegaard",
+            "jersey_number": 8,
+            "team": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "e5190a8f-9aaa-40e5-8ddf-c3772d1a7527",
+        "fields": {
+            "first_name": "Gabriel",
+            "last_name": "Jesus",
+            "jersey_number": 9,
+            "team": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "22785879-ac5f-4599-bb22-ffb38f250a31",
+        "fields": {
+            "first_name": "Emile",
+            "last_name": "Smith Rowe",
+            "jersey_number": 10,
+            "team": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "19eabc93-0e46-4d5b-93ee-ec55ae3ed2e5",
+        "fields": {
+            "first_name": "Gabriel",
+            "last_name": "Martinelli",
+            "jersey_number": 11,
+            "team": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "0a3d2923-0eff-4aea-b4e9-de8da8446283",
+        "fields": {
+            "first_name": "Thomas",
+            "last_name": "Partey",
+            "jersey_number": 5,
+            "team": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "e415d1c4-a1bb-41cb-9c46-b6bf3b13e9c5",
+        "fields": {
+            "first_name": "Declan",
+            "last_name": "Rice",
+            "jersey_number": 41,
+            "team": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "91758b0d-71d2-44f3-94dd-1db17b42ebd4",
+        "fields": {
+            "first_name": "Emiliano",
+            "last_name": "Martinez",
+            "jersey_number": 1,
+            "team": "d96483fa-1e21-4db1-985f-00345499cbc6",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "fc6d79e4-cb02-4acd-a317-6b716984b6d1",
+        "fields": {
+            "first_name": "Matty",
+            "last_name": "Cash",
+            "jersey_number": 2,
+            "team": "d96483fa-1e21-4db1-985f-00345499cbc6",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "92aa5491-4c26-4a1c-a9dd-34ab06526317",
+        "fields": {
+            "first_name": "Diego",
+            "last_name": "Carlos",
+            "jersey_number": 3,
+            "team": "d96483fa-1e21-4db1-985f-00345499cbc6",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "8bfbfa0a-22a0-4e87-a3c7-ea1b589d03db",
+        "fields": {
+            "first_name": "Pau",
+            "last_name": "Torres",
+            "jersey_number": 4,
+            "team": "d96483fa-1e21-4db1-985f-00345499cbc6",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "81fbfdae-cefb-46d9-bdc4-230bdc11bbfc",
+        "fields": {
+            "first_name": "Douglas",
+            "last_name": "Luiz",
+            "jersey_number": 6,
+            "team": "d96483fa-1e21-4db1-985f-00345499cbc6",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "aaf96f4e-66c6-48e4-82a0-887d4c01f1ce",
+        "fields": {
+            "first_name": "John",
+            "last_name": "McGinn",
+            "jersey_number": 7,
+            "team": "d96483fa-1e21-4db1-985f-00345499cbc6",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "926cc349-d98a-408c-8c3a-91bf4e146364",
+        "fields": {
+            "first_name": "Youri",
+            "last_name": "Tielemans",
+            "jersey_number": 8,
+            "team": "d96483fa-1e21-4db1-985f-00345499cbc6",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "619dd84f-4bea-40c3-b323-8e10a2b3a0bb",
+        "fields": {
+            "first_name": "Ollie",
+            "last_name": "Watkins",
+            "jersey_number": 11,
+            "team": "d96483fa-1e21-4db1-985f-00345499cbc6",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "57271031-4d34-484a-8b0b-1f8d26a28c5d",
+        "fields": {
+            "first_name": "Leon",
+            "last_name": "Bailey",
+            "jersey_number": 31,
+            "team": "d96483fa-1e21-4db1-985f-00345499cbc6",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "14dfc543-fb54-4ec2-ac17-9dd8a30cbf46",
+        "fields": {
+            "first_name": "Moussa",
+            "last_name": "Diaby",
+            "jersey_number": 19,
+            "team": "d96483fa-1e21-4db1-985f-00345499cbc6",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.player",
+        "pk": "27a7e7bf-c6cd-4ebc-9c2a-e4969119815e",
+        "fields": {
+            "first_name": "Alex",
+            "last_name": "Moreno",
+            "jersey_number": 15,
+            "team": "d96483fa-1e21-4db1-985f-00345499cbc6",
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    }
+]
