@@ -97,3 +97,41 @@ query {
   }
 }
 ```
+
+Create a team:
+
+```
+mutation {
+  createTeam(name: "Django FC") {
+    team {
+      name
+      createdAt
+    }
+  }
+}
+```
+
+Update a player:
+
+```
+mutation {
+  updatePlayer(uuid: "619dd84f-4bea-40c3-b323-8e10a2b3a0bb", jerseyNumber: 8) {
+    player {
+      uuid
+      firstName
+      lastName
+      jerseyNumber
+    }
+  }
+}
+```
+
+Delete a player:
+
+```
+mutation {
+  deletePlayer(uuid: "e5190a8f-9aaa-40e5-8ddf-c3772d1a7527") {
+    success
+  }
+}
+```
