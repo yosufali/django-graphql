@@ -1,0 +1,132 @@
+[
+    {
+        "model": "league.match",
+        "pk": "26c5cd99-f618-4eb3-9ae4-c0e1fe55f508",
+        "fields": {
+            "home_team": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+            "away_team": "4f130a1a-e9b4-4fc2-8fc7-1040d8347bba",
+            "match_date": "2023-09-03T15:30:00Z",
+            "home_score": 3,
+            "away_score": 1,
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.match",
+        "pk": "9ddb13d4-35be-42e7-8e6e-24829959dca4",
+        "fields": {
+            "home_team": "4ad5953c-a4ea-4aa7-b647-e4ac39e23f70",
+            "away_team": "be9c2485-6835-40f1-8554-0d3aac295483",
+            "match_date": "2023-11-25T12:30:00Z",
+            "home_score": 1,
+            "away_score": 1,
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.match",
+        "pk": "65202dea-3904-4876-a23e-e8cd5d4fef70",
+        "fields": {
+            "home_team": "b1298ed5-c521-41a6-ae5f-88015caaa9b3",
+            "away_team": "1be750ca-c30f-488d-8b79-2ef10af39aae",
+            "match_date": "2023-11-06T20:00:00Z",
+            "home_score": 4,
+            "away_score": 1,
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.match",
+        "pk": "e0a4a43a-4bba-4e3c-b800-034823511cfa",
+        "fields": {
+            "home_team": "d96483fa-1e21-4db1-985f-00345499cbc6",
+            "away_team": "4ad5953c-a4ea-4aa7-b647-e4ac39e23f70",
+            "match_date": "2023-12-06T20:15:00Z",
+            "home_score": 1,
+            "away_score": 0,
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.match",
+        "pk": "f94ccede-387f-41b0-8592-d6d049f6a80e",
+        "fields": {
+            "home_team": "be9c2485-6835-40f1-8554-0d3aac295483",
+            "away_team": "ddac180c-1607-4d96-b9c6-b0d11fe67dce",
+            "match_date": "2023-12-23T17:30:00Z",
+            "home_score": 1,
+            "away_score": 1,
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.match",
+        "pk": "2a8e59bb-b7c7-4669-9e8f-4621184d2659",
+        "fields": {
+            "home_team": "5d4f69be-97b2-4e3b-b6fc-b3115743cb0b",
+            "away_team": "4f130a1a-e9b4-4fc2-8fc7-1040d8347bba",
+            "match_date": "2023-12-02T20:00:00Z",
+            "home_score": 1,
+            "away_score": 0,
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.match",
+        "pk": "91553d9d-9a1c-4ceb-89b3-ba81ebacd1f7",
+        "fields": {
+            "home_team": "73dbad07-ba6f-4a2a-b473-734b105e99db",
+            "away_team": "1be750ca-c30f-488d-8b79-2ef10af39aae",
+            "match_date": "2023-12-03T14:00:00Z",
+            "home_score": 3,
+            "away_score": 2,
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.match",
+        "pk": "3d9acc34-650a-4e8a-abc7-ea570aba5003",
+        "fields": {
+            "home_team": "21c8f5ef-e9bb-4b7e-a0c0-ceccb506ec33",
+            "away_team": "f58c2e4f-d1ab-485a-949c-6075c8354138",
+            "match_date": "2024-01-14T14:00:00Z",
+            "home_score": 1,
+            "away_score": 1,
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.match",
+        "pk": "ecfaa521-168f-4dfb-bda5-f6f750e2d183",
+        "fields": {
+            "home_team": "b1298ed5-c521-41a6-ae5f-88015caaa9b3",
+            "away_team": "7f1fbf3b-8300-4f17-9b8c-b45b071faef4",
+            "match_date": "2024-02-03T12:30:00Z",
+            "home_score": 2,
+            "away_score": 2,
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    },
+    {
+        "model": "league.match",
+        "pk": "f7e29785-bdaa-410f-aa49-06f8845d5c16",
+        "fields": {
+            "home_team": "4ad5953c-a4ea-4aa7-b647-e4ac39e23f70",
+            "away_team": "f668307c-8757-4d2c-a69f-a25fd690279f",
+            "match_date": "2024-01-31T20:00:00Z",
+            "home_score": 3,
+            "away_score": 1,
+            "created_at": "2024-03-10T12:00:00Z",
+            "updated_at": "2024-03-10T12:00:00Z"
+        }
+    }
+]
