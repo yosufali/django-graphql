@@ -28,9 +28,7 @@ docker compose exec api python manage.py migrate
 Load data so you have something to work with:
 
 ```
-docker compose exec api python manage.py loaddata /code/league/fixtures/teams.json
-docker compose exec api python manage.py loaddata /code/league/fixtures/players.json
-docker compose exec api python manage.py loaddata /code/league/fixtures/matches.json
+docker compose exec api python manage.py loaddata /code/league/fixtures/teams.json /code/league/fixtures/players.json /code/league/fixtures/matches.json
 ```
 
 Create your django admin user:
